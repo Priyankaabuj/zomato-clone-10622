@@ -1,2 +1,2 @@
 # zomato landing page 10622
-this is new setup branch
+this is new setup
